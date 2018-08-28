@@ -1,5 +1,5 @@
 /*
- * First and Last Names
+ * Name: Sneha Patel
  */
 
 public class Homework0 {
@@ -9,7 +9,7 @@ public class Homework0 {
 	 * Ensure that you match case and punctuation exactly
 	 */
 	public static void main(String[] args) {
-		Print Somthing
+		System.out.println("Hello, World!");
 	}
 
 }
